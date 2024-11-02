@@ -7,7 +7,6 @@
 📫 Connect with me on Linkedin: https://www.linkedin.com/in/chinonsomorsindi
 
 ⚡ Fun fact: I have a twin sister!
--->
 
 <!--
 **ChinonsoM/ChinonsoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
