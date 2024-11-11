@@ -1,6 +1,6 @@
 ## Hi, I'm Chinonso 👋
 
-🔭 I’m currently working on an economic opprotuntiy mapping tool for that visualizes employment and credit access using geospatial data on financial institutions and labor centers in emerging markets. 
+🔭 I’m currently working on an economic opprotuntiy mapping tool with Girls Who Code that visualizes employment and credit access using geospatial data on financial institutions and labor centers in emerging markets. 
 
 🌱 I’m currently learning how to create a predictive analytics algorithm that generates trade recommendations by forecasting future stock prices and market trends from large sets of financial, economic, and company specfic data. 
 
